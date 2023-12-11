@@ -1,4 +1,4 @@
-const URL = "https://verito1306.pythonanywhere.com"
+const URL = "https://verito1306.pythonanywhere.com/"
 const app = Vue.createApp({
     data() {
         return {
